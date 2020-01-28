@@ -27,7 +27,7 @@ void fillMatrixEdges(int size)
             //valores maximos y minimos en la matriz
             if(i==0 || i==size-1 || j==0 || j==size-1)
             {
-                matriz[i][j]='1';\
+                matriz[i][j]='1';
                 std::cout <<"1";
             }else{
                 matriz[i][j]=' ';
