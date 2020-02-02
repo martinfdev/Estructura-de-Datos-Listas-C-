@@ -12,9 +12,9 @@
 > devuelve un dato entero del total de la moneda que posee un usautio espesifico
 
 - transferencia(Usuario, cantidad)
-> se transfiere la cantidad espesificada al usuairo decontando del monedero
+> se transfiere la cantidad espesificada al usuairo decontando del monedero devuelve un bool si la operacion es exitosa o no
 
 - transferFromTo(Usuario from, Usaurio to, cantidad)
-> transferencia de monedas entre ambos usuarios y la cantidad espesificada
+> transferencia de monedas entre ambos usuarios y la cantidad espesificada devuelve un bool si la operacion es exitosa o no
 
 
