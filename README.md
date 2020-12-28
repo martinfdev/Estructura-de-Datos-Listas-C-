@@ -1,3 +1,3 @@
-# EDD20S1-201700656
+# Estructura de datos Listas Simples y Dobles
 
 
